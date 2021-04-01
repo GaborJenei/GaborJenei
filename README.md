@@ -1,4 +1,11 @@
-- 👋 Hi, I’m @GaborJenei
+![road traffic sign](https://github.com/GaborJenei/GaborJenei/blob/main/assets/RightTurn.png "You must turn right!")
+
+
+
+# Hello, Visitor! 👋 Hi,
+
+I’m @GaborJenei, a Data Scientist with a background in transport modelling, forecasting and appraisal.
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
