@@ -2,7 +2,7 @@
 
 
 
-# Hello, Visitor! 👋 Hi,
+# Hello, Visitor! 👋
 
 I’m @GaborJenei, a Data Scientist with a background in transport modelling, forecasting and appraisal.
 
