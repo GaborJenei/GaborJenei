@@ -1,4 +1,4 @@
-![road traffic sign](https://github.com/GaborJenei/GaborJenei/blob/main/assets/RightTurn.png "You must turn right!")
+![road traffic sign](https://drive.google.com/file/d/1ncwrSSy7VbRUlNUi_VNaIw27Zf5bkHWZ/view?usp=sharing")
 
 
 
