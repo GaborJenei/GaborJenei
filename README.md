@@ -1,11 +1,24 @@
 # Hello, Visitor! 👋
 
-I’m @GaborJenei, a Data Scientist with a background in transport modelling, forecasting and appraisal.
+I’m @GaborJenei, a Data Scientist with a background in transport modelling, forecasting and appraisal, based in Bristol, UK.
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### 📫 You can reach me:
+- email: jeneigabor14@gmail.com 📨 
+- linkedIn: www.linkedin.com/in/gabor-jenei-engineer
+
+## 👀 I’m Currently working on:
+- Analysis of Englands Road Traffic Accident Data:
+- extracting transforming and cleaning some road traffic data
+- Fine tuning some trip demand matrices
+
+## 🌱 I’m currently learning:
+- Data Engineering
+- Restful APIs
+- Flask
+
+## 💞️ I’m looking to collaborate on:
+- osPlanning/omx-python is just not working with omx files exported from SATURN. It's most likely due to a bug originating from the SATURN software, however I'm keen to look into. With the team we really hoped to utilise the benefits of HDF5 (compared to serialisation of csv files) 😢
+
 
 <!---
 Todo
