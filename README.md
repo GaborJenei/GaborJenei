@@ -1,7 +1,3 @@
-![road traffic sign](https://drive.google.com/file/d/1ncwrSSy7VbRUlNUi_VNaIw27Zf5bkHWZ/view?usp=sharing)
-
-
-
 # Hello, Visitor! 👋
 
 I’m @GaborJenei, a Data Scientist with a background in transport modelling, forecasting and appraisal.
