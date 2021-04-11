@@ -18,7 +18,7 @@ I’m @GaborJenei, a Data Scientist with a background in transport modelling, fo
 
 ## 💞️ I’m looking to collaborate on:
 - osPlanning/omx-python is just not working with omx files exported from SATURN. It's most likely due to a bug originating from the SATURN software, however I'm keen to look into. With the team we really hoped to utilise the benefits of HDF5 (compared to serialisation of csv files) 😢
-- 
+
 
 <!---
 Todo
