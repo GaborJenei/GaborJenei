@@ -11,18 +11,28 @@ I’m @GaborJenei, a Data Scientist with a background in transport modelling, fo
 - extracting transforming and cleaning some road traffic data
 - Fine tuning some trip demand matrices
 
+## My previous Projects:
+- I have a few small, fun android app projects
+- Road traffic forecasts
+
 ## 🌱 I’m currently learning:
 - Data Engineering
-- Restful APIs
-- Flask
+- Restful APIs, Flask
 
 ## 💞️ I’m looking to collaborate on:
 - osPlanning/omx-python is just not working with omx files exported from SATURN. It's most likely due to a bug originating from the SATURN software, however I'm keen to look into. With the team we really hoped to utilise the benefits of HDF5 (compared to serialisation of csv files) 😢
+
+## 🛠️ Technologies and tool
+ - Python
+ - Java
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=gaborjenei&show_icons=true&theme=highcontrast" />
 
 
 <!---
 Todo
 https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
+gotham
 --->
 
 <!---
