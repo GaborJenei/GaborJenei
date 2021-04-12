@@ -26,6 +26,8 @@ I’m @GaborJenei, a Data Scientist with a background in transport modelling, fo
  - Python
  - Java
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaborjenei&theme=highcontrast)](https://github.com/gaborjenei/github-readme-stats)
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=gaborjenei&show_icons=true&theme=highcontrast" />
 
 
