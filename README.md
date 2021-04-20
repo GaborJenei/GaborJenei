@@ -13,16 +13,16 @@ I’m @GaborJenei, a Data Scientist with a background in transport modelling, fo
 
 ## My previous Projects:
 - I have a few small, fun android app projects
-- Road traffic forecasts
+- Traffic Flow Data pipeline for Highways England (closed source 😢 )
 
 ## 🌱 I’m currently learning:
 - Data Engineering
 - Restful APIs, Flask
 
 ## 💞️ I’m looking to collaborate on:
-- osPlanning/omx-python is just not working with omx files exported from SATURN. It's most likely due to a bug originating from the SATURN software, however I'm keen to look into. With the team we really hoped to utilise the benefits of HDF5 (compared to serialisation of csv files) 😢
+- osPlanning/omx-python is just not working with omx files exported from SATURN. It's most likely due to a bug originating from the SATURN software, however I'm keen to look into. With the team we really hoped to utilise the benefits of HDF5 (compared to serialisation of csv files)
 
-## 🛠️ Technologies and tool
+## 🛠️ Technologies and tools
  - Python
  - Java
 
