@@ -7,9 +7,13 @@ I’m @GaborJenei, a Data Scientist with a background in transport modelling, fo
 - linkedIn: www.linkedin.com/in/gabor-jenei-engineer
 
 ## 👀 I’m Currently working on:
-- Analysis of Englands Road Traffic Accident Data:
-- extracting transforming and cleaning some road traffic data
-- Fine tuning some trip demand matrices
+- I have just finished with [analysing GB Road Traffic Accident Data](https://gaborjenei.medium.com/a-crash-look-at-englands-road-traffic-accident-data-62049d4d95b)
+
+   The Blog post: https://gaborjenei.medium.com/a-crash-look-at-englands-road-traffic-accident-data-62049d4d95b
+   The Code: https://github.com/GaborJenei/GB-Road-Traffic-Accident-Analysis
+   
+- extracting transforming and cleaning text data / NLP
+- Building an API with Flask for serving the GB accident data
 
 ## My previous Projects:
 - I have a few small, fun android app projects
