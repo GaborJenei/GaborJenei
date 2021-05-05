@@ -18,9 +18,12 @@ I’m @GaborJenei, a Data Scientist with a background in transport modelling, fo
 
 ## My previous Projects:
 - I have a few small, fun android app projects
+- [NLP Tweet Classification Kaggle Challenge](https://github.com/GaborJenei/NLP-DisasterTweets)
 - Traffic Flow Data pipeline for Highways England (closed source 😢 )
 
 ## 🌱 I’m currently learning:
+- GPU acceleration:
+    If you're interested too check out [this](https://github.com/z-ryan1/gtc_spring_2021) great repo to get started: https://github.com/z-ryan1/gtc_spring_2021
 - Data Engineering
 - Restful APIs, Flask
 
