@@ -3,17 +3,18 @@
 I’m @GaborJenei, a Data Scientist with a background in transport modelling, forecasting and appraisal, based in Bristol, UK.
 
 ### 📫 You can reach me:
-- email: jeneigabor14@gmail.com 📨 
+- email: gabor.jenei.eng@gmail.com 📨 
 - linkedIn: www.linkedin.com/in/gabor-jenei-engineer
 
 ## 👀 I’m Currently working on:
-- I have just finished with [analysing GB Road Traffic Accident Data](https://gaborjenei.medium.com/a-crash-look-at-englands-road-traffic-accident-data-62049d4d95b)
+- Please have a read of my latest blogpost about [analysing GB Road Traffic Accident Data](https://gaborjenei.medium.com/a-crash-look-at-englands-road-traffic-accident-data-62049d4d95b)
 
    The Blog post: https://gaborjenei.medium.com/a-crash-look-at-englands-road-traffic-accident-data-62049d4d95b
    The Code: https://github.com/GaborJenei/GB-Road-Traffic-Accident-Analysis
    
-- extracting transforming and cleaning text data / NLP
-- Building an API with Flask for serving the GB accident data
+- extracting transforming and cleaning text data, building an NLP, Fine tune the text classifier using scikit-learn Pipelines, FeatureUnions and GridSearchCV
+     https://github.com/GaborJenei/disaster-response
+- Building an API with Flask for serving the GB accident data https://github.com/GaborJenei/stats19-api
 
 ## My previous Projects:
 - I have a few small, fun android app projects
