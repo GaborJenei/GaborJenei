@@ -18,6 +18,7 @@ I’m @GaborJenei, a Data Scientist with a background in transport modelling, fo
 
 ## My previous Projects:
 - I have a few small, fun android app projects
+    - [Rugby Score keeper app](https://github.com/GaborJenei/score-keeper-app)
 - [NLP Tweet Classification Kaggle Challenge](https://github.com/GaborJenei/NLP-DisasterTweets)
 - Traffic Flow Data pipeline for Highways England (closed source 😢 )
 
