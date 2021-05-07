@@ -17,8 +17,9 @@ I’m @GaborJenei, a Data Scientist with a background in transport modelling, fo
 - Building an API with Flask for serving the GB accident data https://github.com/GaborJenei/stats19-api
 
 ## My previous Projects:
-- I have a few small, fun android app projects
+- I have a few small, fun Android app projects
     - [Rugby Score keeper app](https://github.com/GaborJenei/score-keeper-app)
+    - [Quizz App](https://github.com/GaborJenei/quizz-app)
 - [NLP Tweet Classification Kaggle Challenge](https://github.com/GaborJenei/NLP-DisasterTweets)
 - Traffic Flow Data pipeline for Highways England (closed source 😢 )
 
